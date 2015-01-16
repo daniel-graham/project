@@ -1,0 +1,1 @@
+compare-object -referenceobject $(get-content file1) -differenceobject $(get-content file2) -includeequal
